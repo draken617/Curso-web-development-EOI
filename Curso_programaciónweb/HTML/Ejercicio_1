@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+  <html lang="es">
+ <head>
+ <meta charset="utf-8" />
+ <title>Ejercicio 1</title>
+ <link rel="stylesheet" type="text/css" href="estilo.css" />
+ </head>
+ <body>
+ <header>
+ <h1> Curso </h1>
+ <h3> de programación web</h3>
+<address> <strong> Dirección:</strong> </br> Avd./ Juan Carlos Ferrero nº18</address>
+ <p>Esta página es HTML 5 válido.</p>
+ <img src="../image/mqdefault.jpg "  alt=" dibujos"/>
+ </header>
+ </body>
+ </html>
